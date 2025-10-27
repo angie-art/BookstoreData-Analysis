@@ -5,7 +5,7 @@ This project was carried out as part of my Second Semester Project in the Data A
 
 Project Objective
 - The objective of this project was to:
-- Explore and analyze a fictional bookstore database using SQL.
+- Explore and analyze a bookstore database using SQL.
 - Highlight top-selling books, active customers, revenue trends, and customer feedback.
 - Demonstrate practical use of SQL in solving real-world business challenges.
 
